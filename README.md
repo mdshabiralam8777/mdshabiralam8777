@@ -238,8 +238,8 @@ const shabir = {
 
 <div align="center">
 
-[![SAFe Badge](https://img.shields.io/badge/SAFe®_5_Practitioner-Certified-00629B?style=for-the-badge&logo=scaled-agile-framework&logoColor=white)](https://www.credly.com)
-[![Angular](https://img.shields.io/badge/Angular_Complete_Guide-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://udemy.com)
+[![SAFe Badge](https://img.shields.io/badge/SAFe®_5_Practitioner-Certified-00629B?style=for-the-badge&logo=scaled-agile-framework&logoColor=white)](https://www.credly.com/badges/1a236f11-4b18-410d-8456-ec6723743376)
+[![Angular](https://img.shields.io/badge/Angular_Complete_Guide-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-8d695f0e-a858-4845-a3e7-8c3716ae20e1/)
 
 </div>
 
