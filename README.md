@@ -264,7 +264,7 @@ const shabir = {
 _I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision._
 
 [![Email](https://img.shields.io/badge/Email_Me-alammohammedshabir@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alammohammedshabir@gmail.com)
-[![Resume](https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1wurQ0hSjwXWrNNJWu-2WYDZbOGbE5zvB/view?usp=sharing)
+[![Resume](https://drive.google.com/file/d/1fJ_oS0sjor4jLhklnKbqIf8zjCLebf17/view?usp=sharing)
 
 ---
 
