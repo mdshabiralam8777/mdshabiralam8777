@@ -2,7 +2,7 @@
   
 # Hey there! I'm Mohammed Shabir Alam 👋
 
-### 🚀 Senior Frontend Developer | React & Angular Specialist | Digital Transformation Advocate
+### 🚀 Senior Frontend Developer | Angular & React Specialist | Digital Transformation Advocate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-shabir-alam-1014b6144)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://personal-portfolio-self.vercel.app/)
@@ -22,7 +22,7 @@
 const shabir = {
   location: "Dubai, UAE 🇦🇪",
   currentRole: "Senior Frontend Developer @ Emirates NBD",
-  experience: "6+ years",
+  experience: "5+ years",
   domains: ["Fintech", "Telecom", "E-commerce"],
   impact: "Serving 5M+ users",
   passion: "Creating secure, scalable, and user-friendly web applications",
@@ -147,7 +147,7 @@ const shabir = {
 
 **Tech:** `React` `Node.js` `REST APIs`
 
-[View Project →](https://github.com/mdshabiralam8777)
+[View Project →](https://github.com/mdshabiralam8777/DevInsight)
 
 </td>
 <td width="50%">
@@ -163,7 +163,7 @@ const shabir = {
 
 **Tech:** `MERN Stack` `Cloudinary` `Vercel`
 
-[View Project →](https://github.com/mdshabiralam8777)
+[View Live →](https://www.stringshelmetpoint.co.in/)
 
 </td>
 </tr>
@@ -181,7 +181,7 @@ const shabir = {
 
 **Tech:** `MEAN Stack` `JWT` `WebSockets`
 
-[View Project →](https://github.com/mdshabiralam8777)
+[View Project →](https://github.com/mdshabiralam8777/WebMonitor-Hub)
 
 </td>
 <td width="50%">
@@ -197,7 +197,7 @@ const shabir = {
 
 **Tech:** `Angular` `TMDB API` `RxJS`
 
-[View Project →](https://github.com/mdshabiralam8777)
+[View Project →](https://github.com/mdshabiralam8777/CinemaPedia)
 
 </td>
 </tr>
